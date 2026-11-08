@@ -1,0 +1,1684 @@
+{
+  "q1": {
+    "query": "competitive multiplayer shooter",
+    "candidates": [
+      {
+        "app_id": 33100,
+        "title": "Alien Shooter",
+        "url": "https://store.steampowered.com/app/33100/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 4218640,
+        "title": "Brawl Arena Shooter",
+        "url": "https://store.steampowered.com/app/4218640/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3348300,
+        "title": "Bullet Hell Game Anthology",
+        "url": "https://store.steampowered.com/app/3348300/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 2067490,
+        "title": "Competitive Checkers",
+        "url": "https://store.steampowered.com/app/2067490/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 4267820,
+        "title": "Competitive TicTacToe",
+        "url": "https://store.steampowered.com/app/4267820/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1364180,
+        "title": "Counter Operation Online",
+        "url": "https://store.steampowered.com/app/1364180/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 730,
+        "title": "Counter-Strike 2",
+        "url": "https://store.steampowered.com/app/730/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1831670,
+        "title": "Eldorado FPS",
+        "url": "https://store.steampowered.com/app/1831670/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 4091290,
+        "title": "Escape from Tarkov: PVE Zone",
+        "url": "https://store.steampowered.com/app/4091290/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 16300,
+        "title": "Everyday Shooter",
+        "url": "https://store.steampowered.com/app/16300/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 4800620,
+        "title": "FPV PVP",
+        "url": "https://store.steampowered.com/app/4800620/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2315700,
+        "title": "Gore Storm",
+        "url": "https://store.steampowered.com/app/2315700/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 4051460,
+        "title": "Gunn in a Flash (or: Just Another Boomer Shooter)",
+        "url": "https://store.steampowered.com/app/4051460/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 469600,
+        "title": "Legion TD 2 - Multiplayer Tower Defense",
+        "url": "https://store.steampowered.com/app/469600/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 821570,
+        "title": "Lethal Lawns: Competitive Mowing Bloodsport",
+        "url": "https://store.steampowered.com/app/821570/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2292940,
+        "title": "Multiplayer Werewolves",
+        "url": "https://store.steampowered.com/app/2292940/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2788560,
+        "title": "Nemesis Zero  |  Open-World Multiplayer",
+        "url": "https://store.steampowered.com/app/2788560/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 763490,
+        "title": "Precision Archery: Competitive",
+        "url": "https://store.steampowered.com/app/763490/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 577970,
+        "title": "Punch Planet - Early Access",
+        "url": "https://store.steampowered.com/app/577970/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 3739960,
+        "title": "Retro Racing 2",
+        "url": "https://store.steampowered.com/app/3739960/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 912920,
+        "title": "SMUSH.TV - Competitive VR x PC Action",
+        "url": "https://store.steampowered.com/app/912920/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 1189250,
+        "title": "Super Space Shooter Arena",
+        "url": "https://store.steampowered.com/app/1189250/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      }
+    ]
+  },
+  "q2": {
+    "query": "relaxing farming game with crops and relationships",
+    "candidates": [
+      {
+        "app_id": 3148210,
+        "title": "99 Games: Puzzle, Action, Strategy, Simulation, Casual, Roguelike, Shooter, RPG & More",
+        "url": "https://store.steampowered.com/app/3148210/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4216640,
+        "title": "AIKO: AI Girlfriend — 3D Anime Life Sim",
+        "url": "https://store.steampowered.com/app/4216640/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 1995600,
+        "title": "Anime Armpits",
+        "url": "https://store.steampowered.com/app/1995600/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 1514000,
+        "title": "Anime Holidays",
+        "url": "https://store.steampowered.com/app/1514000/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 910630,
+        "title": "Arcade Spirits",
+        "url": "https://store.steampowered.com/app/910630/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 2367580,
+        "title": "Bingo Beavers - Design &  Board game",
+        "url": "https://store.steampowered.com/app/2367580/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 1906040,
+        "title": "Board game party",
+        "url": "https://store.steampowered.com/app/1906040/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3037040,
+        "title": "Board Game Society",
+        "url": "https://store.steampowered.com/app/3037040/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 5364320,
+        "title": "Board Game Tycoon",
+        "url": "https://store.steampowered.com/app/5364320/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2829320,
+        "title": "Casual Mahjong",
+        "url": "https://store.steampowered.com/app/2829320/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4920570,
+        "title": "Choban: Open World Shepherd Survival",
+        "url": "https://store.steampowered.com/app/4920570/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3107960,
+        "title": "Difficult times",
+        "url": "https://store.steampowered.com/app/3107960/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 4349000,
+        "title": "First Fantasy Hentai Studio",
+        "url": "https://store.steampowered.com/app/4349000/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 2985260,
+        "title": "GameCreator - Action Roguelike - 幸存者 - Survivor（类幸存者 Survivor Like）",
+        "url": "https://store.steampowered.com/app/2985260/",
+        "retrieved_by": [
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 3948580,
+        "title": "Plinbo: Roguelike Plinko",
+        "url": "https://store.steampowered.com/app/3948580/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 2226750,
+        "title": "Potion Brew: Co-op",
+        "url": "https://store.steampowered.com/app/2226750/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 1863290,
+        "title": "SpunkStock: Music Festival",
+        "url": "https://store.steampowered.com/app/1863290/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 413150,
+        "title": "Stardew Valley",
+        "url": "https://store.steampowered.com/app/413150/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4329260,
+        "title": "Substance 3D Painter 2026",
+        "url": "https://store.steampowered.com/app/4329260/",
+        "retrieved_by": [
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 5404460,
+        "title": "The Cozy Board Game Shop: Tidy Up",
+        "url": "https://store.steampowered.com/app/5404460/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3628020,
+        "title": "Third-Person Shooter and Platform Jumping and Level-based Adventure",
+        "url": "https://store.steampowered.com/app/3628020/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4450570,
+        "title": "This Is Golf",
+        "url": "https://store.steampowered.com/app/4450570/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 468240,
+        "title": "VR Regatta - The Sailing Game",
+        "url": "https://store.steampowered.com/app/468240/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2358630,
+        "title": "Western Rye",
+        "url": "https://store.steampowered.com/app/2358630/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      }
+    ]
+  },
+  "q3": {
+    "query": "story rich horror game",
+    "candidates": [
+      {
+        "app_id": 3423660,
+        "title": "Backrooms: Exploration",
+        "url": "https://store.steampowered.com/app/3423660/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 3139570,
+        "title": "Co-op Kaiju Horror Cooking",
+        "url": "https://store.steampowered.com/app/3139570/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3311480,
+        "title": "CRTX - A Psychological Horror Puzzle Demo",
+        "url": "https://store.steampowered.com/app/3311480/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2902270,
+        "title": "Death Education",
+        "url": "https://store.steampowered.com/app/2902270/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 2938600,
+        "title": "Escape Room Collection C2 Psychological Horror",
+        "url": "https://store.steampowered.com/app/2938600/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3994530,
+        "title": "Forbidden Terror: Board Game",
+        "url": "https://store.steampowered.com/app/3994530/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4248590,
+        "title": "Gore In Crayon",
+        "url": "https://store.steampowered.com/app/4248590/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 4755440,
+        "title": "Maximilien — A Psychological Horror Interactive Novel",
+        "url": "https://store.steampowered.com/app/4755440/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 5006850,
+        "title": "MECCHA HORROR",
+        "url": "https://store.steampowered.com/app/5006850/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 746990,
+        "title": "Prelude: Psychological Horror Game",
+        "url": "https://store.steampowered.com/app/746990/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1096570,
+        "title": "SONG OF HORROR COMPLETE EDITION",
+        "url": "https://store.steampowered.com/app/1096570/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3636960,
+        "title": "Violent Horror Stories 2",
+        "url": "https://store.steampowered.com/app/3636960/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3080380,
+        "title": "Violent Horror Stories: anthology",
+        "url": "https://store.steampowered.com/app/3080380/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 913740,
+        "title": "WORLD OF HORROR",
+        "url": "https://store.steampowered.com/app/913740/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 3053390,
+        "title": "家屋探索 -Japanese House Exploration-",
+        "url": "https://store.steampowered.com/app/3053390/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      }
+    ]
+  },
+  "q4": {
+    "query": "open world RPG adventure",
+    "candidates": [
+      {
+        "app_id": 5103870,
+        "title": "Anywhere RPG",
+        "url": "https://store.steampowered.com/app/5103870/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 5326750,
+        "title": "Backrooms Open World",
+        "url": "https://store.steampowered.com/app/5326750/",
+        "retrieved_by": [
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 1720120,
+        "title": "Bandits: Open World",
+        "url": "https://store.steampowered.com/app/1720120/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1796790,
+        "title": "Chef RPG",
+        "url": "https://store.steampowered.com/app/1796790/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4920570,
+        "title": "Choban: Open World Shepherd Survival",
+        "url": "https://store.steampowered.com/app/4920570/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1852510,
+        "title": "Corsairs Legacy: Naval Mission - Pirate Action RPG",
+        "url": "https://store.steampowered.com/app/1852510/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 5268480,
+        "title": "Goblin Apocalypse: Open World Survival",
+        "url": "https://store.steampowered.com/app/5268480/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 550470,
+        "title": "NosTale - Anime MMORPG",
+        "url": "https://store.steampowered.com/app/550470/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 4609770,
+        "title": "Not Quite Dead: Open World Survival",
+        "url": "https://store.steampowered.com/app/4609770/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1144110,
+        "title": "Open World Game: the Open World Game",
+        "url": "https://store.steampowered.com/app/1144110/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1310290,
+        "title": "Open World Game: the Open World Game — The Gratuitous DLC",
+        "url": "https://store.steampowered.com/app/1310290/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 492150,
+        "title": "RPG World - Action RPG Maker",
+        "url": "https://store.steampowered.com/app/492150/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 1990530,
+        "title": "Sailing alone:Aftermath",
+        "url": "https://store.steampowered.com/app/1990530/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 3920,
+        "title": "Sid Meier's Pirates!",
+        "url": "https://store.steampowered.com/app/3920/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 4890760,
+        "title": "THE DEAD WE KNEW: Open World Survival",
+        "url": "https://store.steampowered.com/app/4890760/",
+        "retrieved_by": [
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2429270,
+        "title": "The RPG",
+        "url": "https://store.steampowered.com/app/2429270/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      }
+    ]
+  },
+  "q5": {
+    "query": "co-op survival crafting game",
+    "candidates": [
+      {
+        "app_id": 1720120,
+        "title": "Bandits: Open World",
+        "url": "https://store.steampowered.com/app/1720120/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 5213850,
+        "title": "Bullet Hell Zombies",
+        "url": "https://store.steampowered.com/app/5213850/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 455980,
+        "title": "Judgment: Apocalypse Survival Simulation",
+        "url": "https://store.steampowered.com/app/455980/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 2303720,
+        "title": "Multiplayer Cowboys",
+        "url": "https://store.steampowered.com/app/2303720/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 2292940,
+        "title": "Multiplayer Werewolves",
+        "url": "https://store.steampowered.com/app/2292940/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 4565430,
+        "title": "Mushroom Simulator Co-op",
+        "url": "https://store.steampowered.com/app/4565430/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 4609770,
+        "title": "Not Quite Dead: Open World Survival",
+        "url": "https://store.steampowered.com/app/4609770/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2226750,
+        "title": "Potion Brew: Co-op",
+        "url": "https://store.steampowered.com/app/2226750/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1990530,
+        "title": "Sailing alone:Aftermath",
+        "url": "https://store.steampowered.com/app/1990530/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 225840,
+        "title": "Sven Co-op",
+        "url": "https://store.steampowered.com/app/225840/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4890760,
+        "title": "THE DEAD WE KNEW: Open World Survival",
+        "url": "https://store.steampowered.com/app/4890760/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1604030,
+        "title": "V Rising",
+        "url": "https://store.steampowered.com/app/1604030/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3092850,
+        "title": "Valorwood (Early Access)",
+        "url": "https://store.steampowered.com/app/3092850/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2358630,
+        "title": "Western Rye",
+        "url": "https://store.steampowered.com/app/2358630/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      }
+    ]
+  },
+  "q6": {
+    "query": "casual puzzle game",
+    "candidates": [
+      {
+        "app_id": 3148210,
+        "title": "99 Games: Puzzle, Action, Strategy, Simulation, Casual, Roguelike, Shooter, RPG & More",
+        "url": "https://store.steampowered.com/app/3148210/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1995600,
+        "title": "Anime Armpits",
+        "url": "https://store.steampowered.com/app/1995600/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 1379110,
+        "title": "Anime Feet",
+        "url": "https://store.steampowered.com/app/1379110/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 1910550,
+        "title": "Anime Feet 2",
+        "url": "https://store.steampowered.com/app/1910550/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 2367580,
+        "title": "Bingo Beavers - Design &  Board game",
+        "url": "https://store.steampowered.com/app/2367580/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1906040,
+        "title": "Board game party",
+        "url": "https://store.steampowered.com/app/1906040/",
+        "retrieved_by": [
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3209240,
+        "title": "Canvas - The Board Game",
+        "url": "https://store.steampowered.com/app/3209240/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2829320,
+        "title": "Casual Mahjong",
+        "url": "https://store.steampowered.com/app/2829320/",
+        "retrieved_by": [
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 3020550,
+        "title": "Dialoop -Roguelite Puzzle-",
+        "url": "https://store.steampowered.com/app/3020550/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2938600,
+        "title": "Escape Room Collection C2 Psychological Horror",
+        "url": "https://store.steampowered.com/app/2938600/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 329110,
+        "title": "Gems of War - Puzzle RPG",
+        "url": "https://store.steampowered.com/app/329110/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2366300,
+        "title": "Hentai Casual Swap 2",
+        "url": "https://store.steampowered.com/app/2366300/",
+        "retrieved_by": [
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2326410,
+        "title": "One Flag: A 2D Puzzle-Platformer",
+        "url": "https://store.steampowered.com/app/2326410/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 1686640,
+        "title": "Platformer::Execute();",
+        "url": "https://store.steampowered.com/app/1686640/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 99910,
+        "title": "Puzzle Pirates",
+        "url": "https://store.steampowered.com/app/99910/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1939940,
+        "title": "Roll Player - The Board Game",
+        "url": "https://store.steampowered.com/app/1939940/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1610840,
+        "title": "Virtuous Western",
+        "url": "https://store.steampowered.com/app/1610840/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 745250,
+        "title": "YAPP: Yet Another Puzzle Platformer",
+        "url": "https://store.steampowered.com/app/745250/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      }
+    ]
+  },
+  "q7": {
+    "query": "realistic racing simulation",
+    "candidates": [
+      {
+        "app_id": 2706370,
+        "title": "AC Sailing",
+        "url": "https://store.steampowered.com/app/2706370/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1995890,
+        "title": "Aerofly FS 4 Flight Simulator",
+        "url": "https://store.steampowered.com/app/1995890/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 635260,
+        "title": "CarX Drift Racing Online",
+        "url": "https://store.steampowered.com/app/635260/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1826420,
+        "title": "CarX Drift Racing Online 2",
+        "url": "https://store.steampowered.com/app/1826420/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3437390,
+        "title": "Delta Vector - Turn Based Racing",
+        "url": "https://store.steampowered.com/app/3437390/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 794860,
+        "title": "eSail Sailing Simulator",
+        "url": "https://store.steampowered.com/app/794860/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 266410,
+        "title": "iRacing",
+        "url": "https://store.steampowered.com/app/266410/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 4883590,
+        "title": "iRacing® Studios NASCAR 26",
+        "url": "https://store.steampowered.com/app/4883590/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 410340,
+        "title": "Liftoff®: FPV Drone Racing",
+        "url": "https://store.steampowered.com/app/410340/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1035320,
+        "title": "MarineVerse Sailing Club",
+        "url": "https://store.steampowered.com/app/1035320/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 314160,
+        "title": "Microsoft Flight Simulator X: Steam Edition",
+        "url": "https://store.steampowered.com/app/314160/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 299970,
+        "title": "Project Motor Racing",
+        "url": "https://store.steampowered.com/app/299970/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1112400,
+        "title": "Project Torque - Free 2 Play MMO Racing Game",
+        "url": "https://store.steampowered.com/app/1112400/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 211500,
+        "title": "RaceRoom Racing Experience",
+        "url": "https://store.steampowered.com/app/211500/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3739960,
+        "title": "Retro Racing 2",
+        "url": "https://store.steampowered.com/app/3739960/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 2486820,
+        "title": "Sonic Racing: CrossWorlds",
+        "url": "https://store.steampowered.com/app/2486820/",
+        "retrieved_by": [
+          "bm25-field"
+        ]
+      }
+    ]
+  },
+  "q8": {
+    "query": "strategy management game",
+    "candidates": [
+      {
+        "app_id": 5364320,
+        "title": "Board Game Tycoon",
+        "url": "https://store.steampowered.com/app/5364320/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4075620,
+        "title": "Combolands: Roguelike Citybuilder",
+        "url": "https://store.steampowered.com/app/4075620/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 1742360,
+        "title": "Esports History",
+        "url": "https://store.steampowered.com/app/1742360/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 1742460,
+        "title": "Esports History Demo",
+        "url": "https://store.steampowered.com/app/1742460/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3217120,
+        "title": "Esports History: Prologue",
+        "url": "https://store.steampowered.com/app/3217120/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 2749950,
+        "title": "Esports Manager 2026",
+        "url": "https://store.steampowered.com/app/2749950/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4006000,
+        "title": "Esports Manager 2026 Demo",
+        "url": "https://store.steampowered.com/app/4006000/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3026100,
+        "title": "ESports Simulator",
+        "url": "https://store.steampowered.com/app/3026100/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 568220,
+        "title": "Lobotomy Corporation | Monster Management Simulation",
+        "url": "https://store.steampowered.com/app/568220/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 2349840,
+        "title": "MOBA Esport Manager 25",
+        "url": "https://store.steampowered.com/app/2349840/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 4611240,
+        "title": "Music Manager",
+        "url": "https://store.steampowered.com/app/4611240/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 769950,
+        "title": "Panzer Strategy",
+        "url": "https://store.steampowered.com/app/769950/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3734990,
+        "title": "Pro Strategy Football 2026",
+        "url": "https://store.steampowered.com/app/3734990/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3718620,
+        "title": "Software CEO",
+        "url": "https://store.steampowered.com/app/3718620/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2776640,
+        "title": "Three Kingdoms and Martial Arts and Jianghu",
+        "url": "https://store.steampowered.com/app/2776640/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2651190,
+        "title": "Three Kingdoms: Strategy MOBA",
+        "url": "https://store.steampowered.com/app/2651190/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1005930,
+        "title": "Timeflow – Life Sim",
+        "url": "https://store.steampowered.com/app/1005930/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      }
+    ]
+  },
+  "q9": {
+    "query": "difficult platformer",
+    "candidates": [
+      {
+        "app_id": 791180,
+        "title": "1 Screen Platformer",
+        "url": "https://store.steampowered.com/app/791180/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1434420,
+        "title": "1 Screen Platformer 2 Demo",
+        "url": "https://store.steampowered.com/app/1434420/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 1271540,
+        "title": "1 Screen Platformer: Prologue",
+        "url": "https://store.steampowered.com/app/1271540/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2497920,
+        "title": "A Difficult Game About Climbing",
+        "url": "https://store.steampowered.com/app/2497920/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 3440890,
+        "title": "A Difficult Game About Letters",
+        "url": "https://store.steampowered.com/app/3440890/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1901130,
+        "title": "A Difficult Game About ROLLING - ReUpRise",
+        "url": "https://store.steampowered.com/app/1901130/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4344790,
+        "title": "Difficult Drivers",
+        "url": "https://store.steampowered.com/app/4344790/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 1447160,
+        "title": "Difficult Platformer Game",
+        "url": "https://store.steampowered.com/app/1447160/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1870440,
+        "title": "Funny Panda",
+        "url": "https://store.steampowered.com/app/1870440/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3027160,
+        "title": "Lost Girl Platformer",
+        "url": "https://store.steampowered.com/app/3027160/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 1283130,
+        "title": "Micro Platformer",
+        "url": "https://store.steampowered.com/app/1283130/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 2263920,
+        "title": "Multiplayer Platform Golf",
+        "url": "https://store.steampowered.com/app/2263920/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1071280,
+        "title": "Q - A Neon Platformer",
+        "url": "https://store.steampowered.com/app/1071280/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 1380970,
+        "title": "Sklime - A Difficult Climbing Adventure",
+        "url": "https://store.steampowered.com/app/1380970/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 745250,
+        "title": "YAPP: Yet Another Puzzle Platformer",
+        "url": "https://store.steampowered.com/app/745250/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      }
+    ]
+  },
+  "q10": {
+    "query": "cozy life simulation",
+    "candidates": [
+      {
+        "app_id": 2881230,
+        "title": "100 Funny Cats",
+        "url": "https://store.steampowered.com/app/2881230/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 3393280,
+        "title": "Anime Shop Simulator ✨",
+        "url": "https://store.steampowered.com/app/3393280/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 5175820,
+        "title": "Anime Shop Simulator: Supporter Pack",
+        "url": "https://store.steampowered.com/app/5175820/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4486370,
+        "title": "Banana Life Sim",
+        "url": "https://store.steampowered.com/app/4486370/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 3601810,
+        "title": "Clear the Snow",
+        "url": "https://store.steampowered.com/app/3601810/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 3356720,
+        "title": "Grass Life Sim",
+        "url": "https://store.steampowered.com/app/3356720/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 4011940,
+        "title": "Grass Life Sim 2",
+        "url": "https://store.steampowered.com/app/4011940/",
+        "retrieved_by": [
+          "tfidf"
+        ]
+      },
+      {
+        "app_id": 2495100,
+        "title": "Hello Kitty Island Adventure",
+        "url": "https://store.steampowered.com/app/2495100/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4055140,
+        "title": "Hello Kitty Island Adventure - City Town",
+        "url": "https://store.steampowered.com/app/4055140/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4182320,
+        "title": "Heyoo 3D Platformer Demo",
+        "url": "https://store.steampowered.com/app/4182320/",
+        "retrieved_by": [
+          "bm25"
+        ]
+      },
+      {
+        "app_id": 3000080,
+        "title": "Life Sim",
+        "url": "https://store.steampowered.com/app/3000080/",
+        "retrieved_by": [
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 5159290,
+        "title": "Life++ : Idle Life Sim",
+        "url": "https://store.steampowered.com/app/5159290/",
+        "retrieved_by": [
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 4565430,
+        "title": "Mushroom Simulator Co-op",
+        "url": "https://store.steampowered.com/app/4565430/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3744710,
+        "title": "Press A: Extremely Realistic Life Simulator",
+        "url": "https://store.steampowered.com/app/3744710/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 4010900,
+        "title": "Retro Arcade Shop Simulator",
+        "url": "https://store.steampowered.com/app/4010900/",
+        "retrieved_by": [
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 3859210,
+        "title": "Rhythm Animal Café",
+        "url": "https://store.steampowered.com/app/3859210/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 4981830,
+        "title": "RV Life Sim",
+        "url": "https://store.steampowered.com/app/4981830/",
+        "retrieved_by": [
+          "bm25-field"
+        ]
+      },
+      {
+        "app_id": 5404460,
+        "title": "The Cozy Board Game Shop: Tidy Up",
+        "url": "https://store.steampowered.com/app/5404460/",
+        "retrieved_by": [
+          "bm25",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      },
+      {
+        "app_id": 1005930,
+        "title": "Timeflow – Life Sim",
+        "url": "https://store.steampowered.com/app/1005930/",
+        "retrieved_by": [
+          "tfidf",
+          "bm25-field",
+          "bm25-improved"
+        ]
+      }
+    ]
+  }
+}
