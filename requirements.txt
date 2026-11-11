@@ -1,0 +1,9 @@
+beautifulsoup4>=4.12,<5
+nltk>=3.8,<5
+numpy>=1.24,<3
+pandas>=2.0,<4
+requests>=2.31,<3
+scikit-learn>=1.3,<2
+joblib>=1.2,<2
+rank-bm25>=0.2.2,<1
+matplotlib>=3.7,<4

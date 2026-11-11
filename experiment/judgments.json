@@ -1,0 +1,932 @@
+{
+  "q1": {
+    "query": "competitive multiplayer shooter",
+    "games": [
+      {
+        "app_id": 33100,
+        "title": "Alien Shooter",
+        "relevant": false
+      },
+      {
+        "app_id": 4218640,
+        "title": "Brawl Arena Shooter",
+        "relevant": true
+      },
+      {
+        "app_id": 3348300,
+        "title": "Bullet Hell Game Anthology",
+        "relevant": false
+      },
+      {
+        "app_id": 2067490,
+        "title": "Competitive Checkers",
+        "relevant": false
+      },
+      {
+        "app_id": 4267820,
+        "title": "Competitive TicTacToe",
+        "relevant": false
+      },
+      {
+        "app_id": 1364180,
+        "title": "Counter Operation Online",
+        "relevant": true
+      },
+      {
+        "app_id": 730,
+        "title": "Counter-Strike 2",
+        "relevant": true
+      },
+      {
+        "app_id": 1831670,
+        "title": "Eldorado FPS",
+        "relevant": true
+      },
+      {
+        "app_id": 4091290,
+        "title": "Escape from Tarkov: PVE Zone",
+        "relevant": false
+      },
+      {
+        "app_id": 16300,
+        "title": "Everyday Shooter",
+        "relevant": false
+      },
+      {
+        "app_id": 4800620,
+        "title": "FPV PVP",
+        "relevant": true
+      },
+      {
+        "app_id": 2315700,
+        "title": "Gore Storm",
+        "relevant": false
+      },
+      {
+        "app_id": 4051460,
+        "title": "Gunn in a Flash (or: Just Another Boomer Shooter)",
+        "relevant": false
+      },
+      {
+        "app_id": 469600,
+        "title": "Legion TD 2 - Multiplayer Tower Defense",
+        "relevant": false
+      },
+      {
+        "app_id": 821570,
+        "title": "Lethal Lawns: Competitive Mowing Bloodsport",
+        "relevant": false
+      },
+      {
+        "app_id": 2292940,
+        "title": "Multiplayer Werewolves",
+        "relevant": false
+      },
+      {
+        "app_id": 2788560,
+        "title": "Nemesis Zero  |  Open-World Multiplayer",
+        "relevant": false
+      },
+      {
+        "app_id": 763490,
+        "title": "Precision Archery: Competitive",
+        "relevant": false
+      },
+      {
+        "app_id": 577970,
+        "title": "Punch Planet - Early Access",
+        "relevant": false
+      },
+      {
+        "app_id": 3739960,
+        "title": "Retro Racing 2",
+        "relevant": false
+      },
+      {
+        "app_id": 912920,
+        "title": "SMUSH.TV - Competitive VR x PC Action",
+        "relevant": false
+      },
+      {
+        "app_id": 1189250,
+        "title": "Super Space Shooter Arena",
+        "relevant": true
+      }
+    ]
+  },
+  "q2": {
+    "query": "relaxing farming game with crops and relationships",
+    "games": [
+      {
+        "app_id": 3148210,
+        "title": "99 Games: Puzzle, Action, Strategy, Simulation, Casual, Roguelike, Shooter, RPG & More",
+        "relevant": false
+      },
+      {
+        "app_id": 4216640,
+        "title": "AIKO: AI Girlfriend — 3D Anime Life Sim",
+        "relevant": false
+      },
+      {
+        "app_id": 1995600,
+        "title": "Anime Armpits",
+        "relevant": false
+      },
+      {
+        "app_id": 1514000,
+        "title": "Anime Holidays",
+        "relevant": false
+      },
+      {
+        "app_id": 910630,
+        "title": "Arcade Spirits",
+        "relevant": false
+      },
+      {
+        "app_id": 2367580,
+        "title": "Bingo Beavers - Design &  Board game",
+        "relevant": false
+      },
+      {
+        "app_id": 1906040,
+        "title": "Board game party",
+        "relevant": false
+      },
+      {
+        "app_id": 3037040,
+        "title": "Board Game Society",
+        "relevant": false
+      },
+      {
+        "app_id": 5364320,
+        "title": "Board Game Tycoon",
+        "relevant": false
+      },
+      {
+        "app_id": 2829320,
+        "title": "Casual Mahjong",
+        "relevant": false
+      },
+      {
+        "app_id": 4920570,
+        "title": "Choban: Open World Shepherd Survival",
+        "relevant": false
+      },
+      {
+        "app_id": 3107960,
+        "title": "Difficult times",
+        "relevant": false
+      },
+      {
+        "app_id": 4349000,
+        "title": "First Fantasy Hentai Studio",
+        "relevant": false
+      },
+      {
+        "app_id": 2985260,
+        "title": "GameCreator - Action Roguelike - 幸存者 - Survivor（类幸存者 Survivor Like）",
+        "relevant": false
+      },
+      {
+        "app_id": 3948580,
+        "title": "Plinbo: Roguelike Plinko",
+        "relevant": false
+      },
+      {
+        "app_id": 2226750,
+        "title": "Potion Brew: Co-op",
+        "relevant": false
+      },
+      {
+        "app_id": 1863290,
+        "title": "SpunkStock: Music Festival",
+        "relevant": false
+      },
+      {
+        "app_id": 413150,
+        "title": "Stardew Valley",
+        "relevant": true
+      },
+      {
+        "app_id": 4329260,
+        "title": "Substance 3D Painter 2026",
+        "relevant": false
+      },
+      {
+        "app_id": 5404460,
+        "title": "The Cozy Board Game Shop: Tidy Up",
+        "relevant": false
+      },
+      {
+        "app_id": 3628020,
+        "title": "Third-Person Shooter and Platform Jumping and Level-based Adventure",
+        "relevant": false
+      },
+      {
+        "app_id": 4450570,
+        "title": "This Is Golf",
+        "relevant": false
+      },
+      {
+        "app_id": 468240,
+        "title": "VR Regatta - The Sailing Game",
+        "relevant": false
+      },
+      {
+        "app_id": 2358630,
+        "title": "Western Rye",
+        "relevant": false
+      }
+    ]
+  },
+  "q3": {
+    "query": "story rich horror game",
+    "games": [
+      {
+        "app_id": 3423660,
+        "title": "Backrooms: Exploration",
+        "relevant": true
+      },
+      {
+        "app_id": 3139570,
+        "title": "Co-op Kaiju Horror Cooking",
+        "relevant": true
+      },
+      {
+        "app_id": 3311480,
+        "title": "CRTX - A Psychological Horror Puzzle Demo",
+        "relevant": true
+      },
+      {
+        "app_id": 2902270,
+        "title": "Death Education",
+        "relevant": true
+      },
+      {
+        "app_id": 2938600,
+        "title": "Escape Room Collection C2 Psychological Horror",
+        "relevant": true
+      },
+      {
+        "app_id": 3994530,
+        "title": "Forbidden Terror: Board Game",
+        "relevant": true
+      },
+      {
+        "app_id": 4248590,
+        "title": "Gore In Crayon",
+        "relevant": true
+      },
+      {
+        "app_id": 4755440,
+        "title": "Maximilien — A Psychological Horror Interactive Novel",
+        "relevant": true
+      },
+      {
+        "app_id": 5006850,
+        "title": "MECCHA HORROR",
+        "relevant": true
+      },
+      {
+        "app_id": 746990,
+        "title": "Prelude: Psychological Horror Game",
+        "relevant": false
+      },
+      {
+        "app_id": 1096570,
+        "title": "SONG OF HORROR COMPLETE EDITION",
+        "relevant": true
+      },
+      {
+        "app_id": 3636960,
+        "title": "Violent Horror Stories 2",
+        "relevant": true
+      },
+      {
+        "app_id": 3080380,
+        "title": "Violent Horror Stories: anthology",
+        "relevant": true
+      },
+      {
+        "app_id": 913740,
+        "title": "WORLD OF HORROR",
+        "relevant": true
+      },
+      {
+        "app_id": 3053390,
+        "title": "家屋探索 -Japanese House Exploration-",
+        "relevant": true
+      }
+    ]
+  },
+  "q4": {
+    "query": "open world RPG adventure",
+    "games": [
+      {
+        "app_id": 5103870,
+        "title": "Anywhere RPG",
+        "relevant": true
+      },
+      {
+        "app_id": 5326750,
+        "title": "Backrooms Open World",
+        "relevant": false
+      },
+      {
+        "app_id": 1720120,
+        "title": "Bandits: Open World",
+        "relevant": true
+      },
+      {
+        "app_id": 1796790,
+        "title": "Chef RPG",
+        "relevant": true
+      },
+      {
+        "app_id": 4920570,
+        "title": "Choban: Open World Shepherd Survival",
+        "relevant": true
+      },
+      {
+        "app_id": 1852510,
+        "title": "Corsairs Legacy: Naval Mission - Pirate Action RPG",
+        "relevant": true
+      },
+      {
+        "app_id": 5268480,
+        "title": "Goblin Apocalypse: Open World Survival",
+        "relevant": true
+      },
+      {
+        "app_id": 550470,
+        "title": "NosTale - Anime MMORPG",
+        "relevant": true
+      },
+      {
+        "app_id": 4609770,
+        "title": "Not Quite Dead: Open World Survival",
+        "relevant": true
+      },
+      {
+        "app_id": 1144110,
+        "title": "Open World Game: the Open World Game",
+        "relevant": true
+      },
+      {
+        "app_id": 1310290,
+        "title": "Open World Game: the Open World Game — The Gratuitous DLC",
+        "relevant": true
+      },
+      {
+        "app_id": 492150,
+        "title": "RPG World - Action RPG Maker",
+        "relevant": true
+      },
+      {
+        "app_id": 1990530,
+        "title": "Sailing alone:Aftermath",
+        "relevant": true
+      },
+      {
+        "app_id": 3920,
+        "title": "Sid Meier's Pirates!",
+        "relevant": true
+      },
+      {
+        "app_id": 4890760,
+        "title": "THE DEAD WE KNEW: Open World Survival",
+        "relevant": true
+      },
+      {
+        "app_id": 2429270,
+        "title": "The RPG",
+        "relevant": true
+      }
+    ]
+  },
+  "q5": {
+    "query": "co-op survival crafting game",
+    "games": [
+      {
+        "app_id": 1720120,
+        "title": "Bandits: Open World",
+        "relevant": true
+      },
+      {
+        "app_id": 5213850,
+        "title": "Bullet Hell Zombies",
+        "relevant": true
+      },
+      {
+        "app_id": 455980,
+        "title": "Judgment: Apocalypse Survival Simulation",
+        "relevant": false
+      },
+      {
+        "app_id": 2303720,
+        "title": "Multiplayer Cowboys",
+        "relevant": true
+      },
+      {
+        "app_id": 2292940,
+        "title": "Multiplayer Werewolves",
+        "relevant": true
+      },
+      {
+        "app_id": 4565430,
+        "title": "Mushroom Simulator Co-op",
+        "relevant": false
+      },
+      {
+        "app_id": 4609770,
+        "title": "Not Quite Dead: Open World Survival",
+        "relevant": true
+      },
+      {
+        "app_id": 2226750,
+        "title": "Potion Brew: Co-op",
+        "relevant": true
+      },
+      {
+        "app_id": 1990530,
+        "title": "Sailing alone:Aftermath",
+        "relevant": true
+      },
+      {
+        "app_id": 225840,
+        "title": "Sven Co-op",
+        "relevant": false
+      },
+      {
+        "app_id": 4890760,
+        "title": "THE DEAD WE KNEW: Open World Survival",
+        "relevant": true
+      },
+      {
+        "app_id": 1604030,
+        "title": "V Rising",
+        "relevant": true
+      },
+      {
+        "app_id": 3092850,
+        "title": "Valorwood (Early Access)",
+        "relevant": true
+      },
+      {
+        "app_id": 2358630,
+        "title": "Western Rye",
+        "relevant": true
+      }
+    ]
+  },
+  "q6": {
+    "query": "casual puzzle game",
+    "games": [
+      {
+        "app_id": 3148210,
+        "title": "99 Games: Puzzle, Action, Strategy, Simulation, Casual, Roguelike, Shooter, RPG & More",
+        "relevant": true
+      },
+      {
+        "app_id": 1995600,
+        "title": "Anime Armpits",
+        "relevant": true
+      },
+      {
+        "app_id": 1379110,
+        "title": "Anime Feet",
+        "relevant": true
+      },
+      {
+        "app_id": 1910550,
+        "title": "Anime Feet 2",
+        "relevant": true
+      },
+      {
+        "app_id": 2367580,
+        "title": "Bingo Beavers - Design &  Board game",
+        "relevant": true
+      },
+      {
+        "app_id": 1906040,
+        "title": "Board game party",
+        "relevant": true
+      },
+      {
+        "app_id": 3209240,
+        "title": "Canvas - The Board Game",
+        "relevant": true
+      },
+      {
+        "app_id": 2829320,
+        "title": "Casual Mahjong",
+        "relevant": true
+      },
+      {
+        "app_id": 3020550,
+        "title": "Dialoop -Roguelite Puzzle-",
+        "relevant": true
+      },
+      {
+        "app_id": 2938600,
+        "title": "Escape Room Collection C2 Psychological Horror",
+        "relevant": true
+      },
+      {
+        "app_id": 329110,
+        "title": "Gems of War - Puzzle RPG",
+        "relevant": true
+      },
+      {
+        "app_id": 2366300,
+        "title": "Hentai Casual Swap 2",
+        "relevant": true
+      },
+      {
+        "app_id": 2326410,
+        "title": "One Flag: A 2D Puzzle-Platformer",
+        "relevant": true
+      },
+      {
+        "app_id": 1686640,
+        "title": "Platformer::Execute();",
+        "relevant": true
+      },
+      {
+        "app_id": 99910,
+        "title": "Puzzle Pirates",
+        "relevant": true
+      },
+      {
+        "app_id": 1939940,
+        "title": "Roll Player - The Board Game",
+        "relevant": true
+      },
+      {
+        "app_id": 1610840,
+        "title": "Virtuous Western",
+        "relevant": true
+      },
+      {
+        "app_id": 745250,
+        "title": "YAPP: Yet Another Puzzle Platformer",
+        "relevant": true
+      }
+    ]
+  },
+  "q7": {
+    "query": "realistic racing simulation",
+    "games": [
+      {
+        "app_id": 2706370,
+        "title": "AC Sailing",
+        "relevant": true
+      },
+      {
+        "app_id": 1995890,
+        "title": "Aerofly FS 4 Flight Simulator",
+        "relevant": false
+      },
+      {
+        "app_id": 635260,
+        "title": "CarX Drift Racing Online",
+        "relevant": true
+      },
+      {
+        "app_id": 1826420,
+        "title": "CarX Drift Racing Online 2",
+        "relevant": true
+      },
+      {
+        "app_id": 3437390,
+        "title": "Delta Vector - Turn Based Racing",
+        "relevant": false
+      },
+      {
+        "app_id": 794860,
+        "title": "eSail Sailing Simulator",
+        "relevant": true
+      },
+      {
+        "app_id": 266410,
+        "title": "iRacing",
+        "relevant": true
+      },
+      {
+        "app_id": 4883590,
+        "title": "iRacing® Studios NASCAR 26",
+        "relevant": true
+      },
+      {
+        "app_id": 410340,
+        "title": "Liftoff®: FPV Drone Racing",
+        "relevant": true
+      },
+      {
+        "app_id": 1035320,
+        "title": "MarineVerse Sailing Club",
+        "relevant": true
+      },
+      {
+        "app_id": 314160,
+        "title": "Microsoft Flight Simulator X: Steam Edition",
+        "relevant": false
+      },
+      {
+        "app_id": 299970,
+        "title": "Project Motor Racing",
+        "relevant": true
+      },
+      {
+        "app_id": 1112400,
+        "title": "Project Torque - Free 2 Play MMO Racing Game",
+        "relevant": true
+      },
+      {
+        "app_id": 211500,
+        "title": "RaceRoom Racing Experience",
+        "relevant": true
+      },
+      {
+        "app_id": 3739960,
+        "title": "Retro Racing 2",
+        "relevant": false
+      },
+      {
+        "app_id": 2486820,
+        "title": "Sonic Racing: CrossWorlds",
+        "relevant": false
+      }
+    ]
+  },
+  "q8": {
+    "query": "strategy management game",
+    "games": [
+      {
+        "app_id": 5364320,
+        "title": "Board Game Tycoon",
+        "relevant": true
+      },
+      {
+        "app_id": 4075620,
+        "title": "Combolands: Roguelike Citybuilder",
+        "relevant": true
+      },
+      {
+        "app_id": 1742360,
+        "title": "Esports History",
+        "relevant": true
+      },
+      {
+        "app_id": 1742460,
+        "title": "Esports History Demo",
+        "relevant": true
+      },
+      {
+        "app_id": 3217120,
+        "title": "Esports History: Prologue",
+        "relevant": true
+      },
+      {
+        "app_id": 2749950,
+        "title": "Esports Manager 2026",
+        "relevant": true
+      },
+      {
+        "app_id": 4006000,
+        "title": "Esports Manager 2026 Demo",
+        "relevant": true
+      },
+      {
+        "app_id": 3026100,
+        "title": "ESports Simulator",
+        "relevant": true
+      },
+      {
+        "app_id": 568220,
+        "title": "Lobotomy Corporation | Monster Management Simulation",
+        "relevant": true
+      },
+      {
+        "app_id": 2349840,
+        "title": "MOBA Esport Manager 25",
+        "relevant": true
+      },
+      {
+        "app_id": 4611240,
+        "title": "Music Manager",
+        "relevant": true
+      },
+      {
+        "app_id": 769950,
+        "title": "Panzer Strategy",
+        "relevant": false
+      },
+      {
+        "app_id": 3734990,
+        "title": "Pro Strategy Football 2026",
+        "relevant": true
+      },
+      {
+        "app_id": 3718620,
+        "title": "Software CEO",
+        "relevant": true
+      },
+      {
+        "app_id": 2776640,
+        "title": "Three Kingdoms and Martial Arts and Jianghu",
+        "relevant": true
+      },
+      {
+        "app_id": 2651190,
+        "title": "Three Kingdoms: Strategy MOBA",
+        "relevant": false
+      },
+      {
+        "app_id": 1005930,
+        "title": "Timeflow – Life Sim",
+        "relevant": true
+      }
+    ]
+  },
+  "q9": {
+    "query": "difficult platformer",
+    "games": [
+      {
+        "app_id": 791180,
+        "title": "1 Screen Platformer",
+        "relevant": true
+      },
+      {
+        "app_id": 1434420,
+        "title": "1 Screen Platformer 2 Demo",
+        "relevant": true
+      },
+      {
+        "app_id": 1271540,
+        "title": "1 Screen Platformer: Prologue",
+        "relevant": true
+      },
+      {
+        "app_id": 2497920,
+        "title": "A Difficult Game About Climbing",
+        "relevant": true
+      },
+      {
+        "app_id": 3440890,
+        "title": "A Difficult Game About Letters",
+        "relevant": true
+      },
+      {
+        "app_id": 1901130,
+        "title": "A Difficult Game About ROLLING - ReUpRise",
+        "relevant": true
+      },
+      {
+        "app_id": 4344790,
+        "title": "Difficult Drivers",
+        "relevant": false
+      },
+      {
+        "app_id": 1447160,
+        "title": "Difficult Platformer Game",
+        "relevant": true
+      },
+      {
+        "app_id": 1870440,
+        "title": "Funny Panda",
+        "relevant": true
+      },
+      {
+        "app_id": 3027160,
+        "title": "Lost Girl Platformer",
+        "relevant": false
+      },
+      {
+        "app_id": 1283130,
+        "title": "Micro Platformer",
+        "relevant": true
+      },
+      {
+        "app_id": 2263920,
+        "title": "Multiplayer Platform Golf",
+        "relevant": true
+      },
+      {
+        "app_id": 1071280,
+        "title": "Q - A Neon Platformer",
+        "relevant": true
+      },
+      {
+        "app_id": 1380970,
+        "title": "Sklime - A Difficult Climbing Adventure",
+        "relevant": true
+      },
+      {
+        "app_id": 745250,
+        "title": "YAPP: Yet Another Puzzle Platformer",
+        "relevant": true
+      }
+    ]
+  },
+  "q10": {
+    "query": "cozy life simulation",
+    "games": [
+      {
+        "app_id": 2881230,
+        "title": "100 Funny Cats",
+        "relevant": false
+      },
+      {
+        "app_id": 3393280,
+        "title": "Anime Shop Simulator ✨",
+        "relevant": true
+      },
+      {
+        "app_id": 5175820,
+        "title": "Anime Shop Simulator: Supporter Pack",
+        "relevant": false
+      },
+      {
+        "app_id": 4486370,
+        "title": "Banana Life Sim",
+        "relevant": true
+      },
+      {
+        "app_id": 3601810,
+        "title": "Clear the Snow",
+        "relevant": false
+      },
+      {
+        "app_id": 3356720,
+        "title": "Grass Life Sim",
+        "relevant": true
+      },
+      {
+        "app_id": 4011940,
+        "title": "Grass Life Sim 2",
+        "relevant": true
+      },
+      {
+        "app_id": 2495100,
+        "title": "Hello Kitty Island Adventure",
+        "relevant": true
+      },
+      {
+        "app_id": 4055140,
+        "title": "Hello Kitty Island Adventure - City Town",
+        "relevant": true
+      },
+      {
+        "app_id": 4182320,
+        "title": "Heyoo 3D Platformer Demo",
+        "relevant": false
+      },
+      {
+        "app_id": 3000080,
+        "title": "Life Sim",
+        "relevant": true
+      },
+      {
+        "app_id": 5159290,
+        "title": "Life++ : Idle Life Sim",
+        "relevant": true
+      },
+      {
+        "app_id": 4565430,
+        "title": "Mushroom Simulator Co-op",
+        "relevant": false
+      },
+      {
+        "app_id": 3744710,
+        "title": "Press A: Extremely Realistic Life Simulator",
+        "relevant": false
+      },
+      {
+        "app_id": 4010900,
+        "title": "Retro Arcade Shop Simulator",
+        "relevant": true
+      },
+      {
+        "app_id": 3859210,
+        "title": "Rhythm Animal Café",
+        "relevant": true
+      },
+      {
+        "app_id": 4981830,
+        "title": "RV Life Sim",
+        "relevant": true
+      },
+      {
+        "app_id": 5404460,
+        "title": "The Cozy Board Game Shop: Tidy Up",
+        "relevant": true
+      },
+      {
+        "app_id": 1005930,
+        "title": "Timeflow – Life Sim",
+        "relevant": true
+      }
+    ]
+  }
+}
